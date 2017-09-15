@@ -11,7 +11,7 @@ import javax.naming.OperationNotSupportedException;
 
 /**
  *
- * @author Verónica
+ * @author Verónica Cortes / Jazmin Patiño
  */
 public class MidsquareMethod {
 
