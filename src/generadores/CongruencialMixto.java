@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Verónica
+ * @author Verónica Cortes / Jazmin Patiño
  */
 public class CongruencialMixto {
     
